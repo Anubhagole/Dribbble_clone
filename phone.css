@@ -1,0 +1,35 @@
+body{
+    line-height: 18px;
+}
+.content h1{
+    font-size: 30px;
+    margin-bottom: 30px;
+    margin-top: 70px;
+    width: 70%;
+}
+.content p{
+    width: 80%;
+    font-size: 16px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.content .searchBox{
+    width: 90%;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+.content .searchInput{
+    /* height: 10px; */
+    padding: 32px 35px 32px 45px;
+}
+.trending-search .searches{
+    font-size: 12px;
+}
+.footer-col{
+    width: 50%;
+}
+.sign{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
